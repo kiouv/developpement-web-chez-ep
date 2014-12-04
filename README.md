@@ -7,6 +7,7 @@ Développer chez EP
 * [Prérequis](#prerequis)
     * [Connaissances](#connaissances)
     * [Logiciels](#logiciels)
+* [Sujets](#sujets)
 
 ## Introduction
 
@@ -28,7 +29,7 @@ En nous contactant, tout simplement, nous vous donnerons les droits de développ
 
 ## Prérequis
 
-Chez EP, on ne bricole pas (enfin plus). Dans le but de produire du code ré-utilisable, maintenable, et collaboratif, il est nécessaire de s'appuyer sur des processus et des langages éprouvés.
+Dans le but de produire du code ré-utilisable, maintenable, et collaboratif, il est nécessaire de s'appuyer sur des processus et des langages éprouvés.
 
 Ainsi, nous avons listé les langages et technologies à connaitre de près ou de loin pour développer avec nous. Si vous ne les connaissez pas, c'est le moment d'apprendre !
 
@@ -64,4 +65,16 @@ Là, ça va dépendre des projets sur lesquels vous êtes
 
 #### Apprendre
 
-Voici une [bibliothèque de ressources](RESOURCES.md) pour approfondir tout ça.
+Voici une [bibliothèque de ressources]() pour approfondir tout ça.
+
+## Sujets
+
+### En cours de rédaction
+
+* [Processus de développement]()
+* [Environnement de développement sur OSX]()
+
+### A écrire (liste ouverte)
+
+* [Environnement de développement sur Linux]()
+* [Environnement de développement sur Windows]()
