@@ -3,13 +3,13 @@ Développer chez EP
 
 ## Sommaire
 
-* [Introduction](#mk-introduction)
-* [Prérequis](#mk-prerequis)
-    * [Connaissances](#mk-connaissances)
-    * [Logiciels](#mk-logiciels)
-* [Sujets](#mk-sujets)
+* [Introduction](#markdown-header-introduction)
+* [Prérequis](#markdown-header-prerequis)
+    * [Connaissances](#markdown-header-connaissances)
+    * [Logiciels](#markdown-header-logiciels)
+* [Sujets](#markdown-header-sujets)
 
-## <a name="mk-introduction"></a>Introduction
+## Introduction
 
 Comment développe-t-on chez EP ? Et développer quoi d'abord ?
 
@@ -27,7 +27,7 @@ Ce guide a pour but d'organiser la production, le déploiement, et le maintien d
 
 En nous contactant, tout simplement, nous vous donnerons les droits de développeur sur ce repo. Pour écrire, il vous faudra utiliser [Markdown](http://daringfireball.net/projects/markdown/)
 
-## <a name="mk-prerequis"></a>Prérequis
+## Prérequis
 
 Dans le but de produire du code ré-utilisable, maintenable, et collaboratif, il est nécessaire de s'appuyer sur des processus et des langages éprouvés.
 
@@ -35,7 +35,7 @@ Ainsi, nous avons listé les langages et technologies à connaitre de près ou d
 
 De plus, pour bien coder, il faut les bons outils. A vous d'utiliser ceux que vous préférez.
 
-### <a name="mk-connaissances"></a>Connaissances
+### Connaissances
 
 #### Aisance et maitrise nécessaire
 
@@ -71,7 +71,7 @@ Voici une [bibliothèque de ressources]() pour approfondir tout ça.
 
 De manière générale, privilégiez [Sublime Text](http://www.sublimetext.com/).
 
-## <a name="mk-sujets"></a>Sujets
+## Sujets
 
 ### En cours de rédaction
 

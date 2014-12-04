@@ -4,12 +4,12 @@
 
 ## Sommaire
 
-* [Introduction](#mk-introduction)
-    * [Public ciblé](#mk-public)
-    * [Configuration minimum](#mk-configuration)
-* [Lancer Sublime depuis le terminal](#mk-sublime)
+* [Introduction](#markdown-header-introduction)
+    * [Public ciblé](#markdown-header-public-vise)
+    * [Configuration minimum](#markdown-header-configuration-minimum)
+* [Lancer Sublime depuis le terminal](#markdown-header-lancer-sublime-depuis-le-terminal)
 
-## <a name="mk-introduction"></a>Introduction
+## Introduction
 
 Ce guide doit vous permettre d'installer un environnement de développement complet sur votre machine OSX.
 
@@ -21,7 +21,7 @@ Cet environnement vous permettra de :
 
 Prévoyez 2 bonnes heures pour mettre tout ça en place.
 
-### <a name="mk-public"></a>Public ciblé
+### Public ciblé
 
 Ce document est destiné au développeur avec un minimum d'expérience. En effet, il nécessite de maitriser les domaines suivants :
 
@@ -30,11 +30,11 @@ Ce document est destiné au développeur avec un minimum d'expérience. En effet
 * La manipulation de fichiers en ligne de commande via le terminal
 * node.js, Jade, Stylus, PHP...
 
-### <a name="mk-configuration"></a>Configuration minimum
+### Configuration minimum
 
 OSX, [Sublime Text](http://www.sublimetext.com/), et le reste nous verront ensemble.
 
-## <a name="mk-sublime"></a>Lancer Sublime depuis le terminal OSX
+## Lancer Sublime depuis le terminal OSX
 
 vim ou nano, c'est sympa, mais SUblime Text, c'est mieux. Voici quelques instructions pour ouvrir un fichier ou un dossier avec Sublime text depuis le terminal.
 
