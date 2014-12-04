@@ -3,13 +3,13 @@ Développer chez EP
 
 ## Sommaire
 
-* [Introduction](#introduction)
-* [Prérequis](#prerequis)
-    * [Connaissances](#connaissances)
-    * [Logiciels](#logiciels)
-* [Sujets](#sujets)
+* [Introduction](#mk-introduction)
+* [Prérequis](#mk-prerequis)
+    * [Connaissances](#mk-connaissances)
+    * [Logiciels](#mk-logiciels)
+* [Sujets](#mk-sujets)
 
-## Introduction
+## <a name="mk-introduction"></a>Introduction
 
 Comment développe-t-on chez EP ? Et développer quoi d'abord ?
 
@@ -27,7 +27,7 @@ Ce guide a pour but d'organiser la production, le déploiement, et le maintien d
 
 En nous contactant, tout simplement, nous vous donnerons les droits de développeur sur ce repo. Pour écrire, il vous faudra utiliser [Markdown](http://daringfireball.net/projects/markdown/)
 
-## Prérequis
+## <a name="mk-prerequis"></a>Prérequis
 
 Dans le but de produire du code ré-utilisable, maintenable, et collaboratif, il est nécessaire de s'appuyer sur des processus et des langages éprouvés.
 
@@ -35,7 +35,7 @@ Ainsi, nous avons listé les langages et technologies à connaitre de près ou d
 
 De plus, pour bien coder, il faut les bons outils. A vous d'utiliser ceux que vous préférez.
 
-### Connaissances
+### <a name="mk-connaissances"></a>Connaissances
 
 #### Aisance et maitrise nécessaire
 
@@ -67,14 +67,19 @@ Là, ça va dépendre des projets sur lesquels vous êtes
 
 Voici une [bibliothèque de ressources]() pour approfondir tout ça.
 
-## Sujets
+### <a name="mk-logiciels"></a>Logiciels
+
+De manière générale, privilégiez [Sublime Text](http://www.sublimetext.com/).
+
+## <a name="mk-sujets"></a>Sujets
 
 ### En cours de rédaction
 
-* [Processus de développement]()
-* [Environnement de développement sur OSX]()
+* [Processus de développement](PROCESSUS-DEVELOPPEMENT.md)
+* [Environnement de développement sur OSX](ENVIRONNEMENT-DEVELOPPEMENT-OSX.md)
 
 ### A écrire (liste ouverte)
 
 * [Environnement de développement sur Linux]()
 * [Environnement de développement sur Windows]()
+* [Guide d'utilisation de Sublime Text]()
