@@ -14,13 +14,15 @@ Si le développement est fait par Marine ou Fabien : essayez d'envoyer un zip de
 
 Si le développement est fait par un prestataire externe : demandez à versioner le code sur un GIT et nous donner un accès. EP récupèrera le repo à la livraison finale.
 
-<!-- Serveur de développement
+<!---
+Serveur de développement
 On dispose d'un serveur pour que vous puissiez voir et partager les pages :
 • host : 141.101.56.26
 • user : static_energieperspectiv
 • pwd : jief7aevahDe
 A chaque dossier correspond un domaine : xxx.demo.energie-perspective.fr -> dossier xxx
-Attention, le serveur est ouvert au public, on va mettre en place une procédure d'identification. A suivre. -->
+Attention, le serveur est ouvert au public, on va mettre en place une procédure d'identification. A suivre.
+-->
 
 ## Serveur de production
 

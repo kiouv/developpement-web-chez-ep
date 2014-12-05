@@ -5,9 +5,9 @@
 ## Sommaire
 
 * [Introduction](#markdown-header-introduction)
-    * [Public ciblé](#markdown-header-public-vise)
+    * [Public ciblé](#markdown-header-public-cible)
     * [Configuration minimum](#markdown-header-configuration-minimum)
-* [Lancer Sublime depuis le terminal](#markdown-header-lancer-sublime-depuis-le-terminal)
+* [Lancer Sublime depuis le terminal OSX](#markdown-header-lancer-sublime-depuis-le-terminal-osx)
 
 ## Introduction
 
