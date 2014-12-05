@@ -67,7 +67,7 @@ Là, ça va dépendre des projets sur lesquels vous êtes
 
 Voici une [bibliothèque de ressources]() pour approfondir tout ça.
 
-### <a name="mk-logiciels"></a>Logiciels
+### Logiciels
 
 De manière générale, privilégiez [Sublime Text](http://www.sublimetext.com/).
 
