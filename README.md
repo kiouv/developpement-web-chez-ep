@@ -49,11 +49,11 @@ Sans eux, pas de salut possible
 
 Largement utilisés, donc à connaitre même sans maitriser
 
-* Node.js
 * Grunt
-* Javascript / JQuery
 * Le terminal de lignes de commande de votre machine
 * GIT
+* Javascript / JQuery
+* Node.js (juste comprendre ce que ça fait)
 
 #### En bonus
 
@@ -65,7 +65,7 @@ Là, ça va dépendre des projets sur lesquels vous êtes
 
 #### Apprendre
 
-Voici une [bibliothèque de ressources]() pour approfondir tout ça.
+Voici une [bibliothèque de ressources](https://bitbucket.org/energieperspective/developpement-web-chez-ep/src/master/bibliotheque) pour approfondir tout ça.
 
 ### Logiciels
 
