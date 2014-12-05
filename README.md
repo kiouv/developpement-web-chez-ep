@@ -75,8 +75,8 @@ De manière générale, privilégiez [Sublime Text](http://www.sublimetext.com/)
 
 ### En cours de rédaction
 
-* [Processus de développement](../master/processus)
-* [Environnement de développement sur OSX](../master/environnement-osx)
+* [Processus de développement](https://bitbucket.org/energieperspective/developpement-web-chez-ep/src/master/processus)
+* [Environnement de développement sur OSX](https://bitbucket.org/energieperspective/developpement-web-chez-ep/src/master/environnement-osx)
 
 ### A écrire (liste ouverte)
 
